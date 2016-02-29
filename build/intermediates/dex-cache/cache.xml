@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/david/Desktop/CommandLine/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a5e729b26a87f62d4b80911789a13fd6bf2a4dd">
+        <dex dex="/Users/david/Desktop/CommandLine/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_01c7dc7c6fb1c68c0b864739183e655ac5966a19/classes.dex" />
+    </item>
+    <item
+        jar="/Users/david/Desktop/CommandLine/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d40ac161f742817956a3733bc3c0d5e8b8e8ca95">
+        <dex dex="/Users/david/Desktop/CommandLine/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_89214178bdbbc1845cd767e2afb6e0888f2ddb95/classes.dex" />
+    </item>
+
+</items>
